@@ -1,3 +1,3 @@
 # Anime Front
 
-Front of [Anime API]()
+Front for testing [Anime API](https://github.com/yatoogamii/animeApi)
